@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGl1F6cbHRGtg/profile-displaybackgroundimage-shrink_350_1400/0/1613857357301?e=1619049600&v=beta&t=NC31uWk3ygpTxeTCWMwFBvE5_pP_SeS3aSeFoxalNkQ" alt="scicolonejulian" align="center"/>
 
-<h1 align="center">Hi there fellas 👋, I'm Julian </h1>
-<h3 align="center">I'm a Full Stack developer from Argentina</h3>
+<h1 align="center">Hi there fellas 👋, I'm Julian Scicolone </h1>
+<h3 align="center">I'm a Full Stack & IoT developer from Buenos Aires, Argentina</h3>
 <p>
  SARASA. </p>
  
@@ -31,11 +31,11 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 
 - 🌱 I’m currently learning **GraphQL, React Native, 2D animation**
 
-- 📫 You can contact me at **argasvic@gmail.com**
+- 📫 You can contact me at **scicolone.julian@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/argasvic/](https://www.linkedin.com/in/argasvic/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/scicolonejulian/](https://www.linkedin.com/in/scicolonejulian/)
 
-- ⚡ Fun facts: **I really enjoy playing videogames, 3D printing, going to the gym & gardening. I also have a cat named Bolt.**
+- ⚡ Fun facts: **I'm into Aviation, Electromagnetic Compatibility - IoT devices - Electronics**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,12 +45,12 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 
 <h3 align="left">Deployed Projects:</h3>
 
-- <a href="https://henry-comics.vercel.app/">**HENRY COMICS**</a>
-<p>E-commerce developed with React, Redux, Sequalize, Postgres, Express, Node.js and Boostrap, at Henry Bootcamp in 2020.</p>
+- <a href="https://henry-comics.vercel.app/">** TEST **</a>
+<p>E-commerce developed with React, Redux, Sequalize, Postgres, Express, Node.js and Boostrap.</p>
 <img src="https://henry-comics.vercel.app/static/media/Slide1.e2f0e906.png" alt="PortadaHenryComics" height="200"/>
 <br />
 
-- <a href="https://parrot-family.netlify.app">**Parrot Family**</a>
+- <a href="https://parrot-family.netlify.app">**TEST **</a>
 <p>Twitter like application I made to learn how to implement GraphQL and Apollo Server in a Full Stack project.</p>
 <img src="https://user-images.githubusercontent.com/63479442/109399394-63317780-7921-11eb-81ee-5b64b3fe5e4c.jpg" alt="ParrotFamily" height="200"/>
 <br />
