@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGl1F6cbHRGtg/profile-displaybackgroundimage-shrink_350_1400/0/1613857357301?e=1619049600&v=beta&t=NC31uWk3ygpTxeTCWMwFBvE5_pP_SeS3aSeFoxalNkQ" alt="VictoriaArg" align="center"/>
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGl1F6cbHRGtg/profile-displaybackgroundimage-shrink_350_1400/0/1613857357301?e=1619049600&v=beta&t=NC31uWk3ygpTxeTCWMwFBvE5_pP_SeS3aSeFoxalNkQ" alt="scicolonejulian" align="center"/>
 
-<h1 align="center">Hi there fellas 👋, I'm Victoria</h1>
+<h1 align="center">Hi there fellas 👋, I'm Julian </h1>
 <h3 align="center">I'm a Full Stack developer from Argentina</h3>
 <p>
- I also have a bachelor's degree in Industrial Design. I'm passionate about technology, product design and user experience. I believe design should be applied in collaboration with different subject's approaches to achieve integral solutions. </p>
+ SARASA. </p>
  
 <p> I am a self-taught person who likes taking up new challenges and finding practical solutions in team oriented environments.
 Creativity and adaptability are my main strengths. What I particularly like about the IT world is the team collaboration and the "geekiness" of the people I got to know from it.
