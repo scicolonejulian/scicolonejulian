@@ -58,6 +58,5 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 <img src="https://www.microchip.com/content/experience-fragments/mchp/en_us/site/header/master/_jcr_content/root/responsivegrid/header/logo.coreimg.100.300.png/1605828081463/microchip.png" alt="Microchip" width="auto" height="auto"/>
 </a> 
 </p>
-<p align="center">
+
 ![ScicoloneJulian's GitHub stats](https://github-readme-stats.vercel.app/api?username=scicolonejulian&show_icons=true&theme=radical)
-</p>
