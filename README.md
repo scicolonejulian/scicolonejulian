@@ -63,6 +63,5 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Freescale.svg" alt="Freescale" width="180px" height="50px"/>
 </a>
 </p>
-<p align = "center">
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=scicolonejulian&show_icons=true)
-</p>
+
