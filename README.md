@@ -65,3 +65,6 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 </a>
 </p>
 
+<p align="center">
+![ScicoloneJulian's GitHub stats](https://github-readme-stats.vercel.app/api?username=scicolonejulian&show_icons=true&theme=radical)
+</p>
