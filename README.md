@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there fellas 👋, I'm Julian Scicolone </h1>
 <h3 align="center">I'm a Full Stack & IoT developer from Buenos Aires, Argentina</h3>
 <p>
- SARASA. </p>
+ . </p>
  
 <p> I am a self-taught person who likes taking up new challenges and finding practical solutions in team oriented environments.
 Creativity and adaptability are my main strengths. What I particularly like about the IT world is the team collaboration and the "geekiness" of the people I got to know from it.
