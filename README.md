@@ -60,9 +60,7 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 <img src="https://www.microchip.com/content/experience-fragments/mchp/en_us/site/header/master/_jcr_content/root/responsivegrid/header/logo.coreimg.100.300.png/1605828081463/microchip.png" alt="Microchip" width="auto" height="auto"/>
 </a>
  
-<a href="https://www.nxp.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Freescale.svg" alt="Freescale" width="180px" height="50px"/>
-</a>
+
 </p>
 
 <p align="center">
