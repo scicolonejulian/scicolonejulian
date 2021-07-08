@@ -60,6 +60,6 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 </a>
  
 <a href="https://www.nxp.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Freescale.svg" alt="Freescale" width="100px" height="50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Freescale.svg" alt="Freescale" width="150px" height="50px"/>
 </a>
 </p>
