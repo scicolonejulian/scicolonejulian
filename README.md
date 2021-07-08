@@ -48,10 +48,14 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 
 <p align="center">
 <a href="https://www.raspberrypi.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg" alt="babel" width="auto" height="auto"/>
+<img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg" alt="RaspberryPi" width="auto" height="auto"/>
 </a>
  
 <a href="https://www.arduino.cc" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="babel" width="auto" height="auto"/>
+<img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="Arduino" width="auto" height="auto"/>
+</a>
+
+ <a href="https://www.microchip.com/" target="_blank">
+<img src="https://www.microchip.com/content/experience-fragments/mchp/en_us/site/header/master/_jcr_content/root/responsivegrid/header/logo.coreimg.100.300.png/1605828081463/microchip.png" alt="Microchip" width="auto" height="auto"/>
 </a>
 </p>
