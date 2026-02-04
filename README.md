@@ -1,3 +1,71 @@
+# Hi there! I'm Julian Scicolone 👋
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=scicolonejulian&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
+
+### 🤓 About Me
+I am an **Electronic Engineering Student** and a **Full Stack Enthusiast**. I am passionate about the intersection of high-performance hardware and embedded software. My technical background ranges from **Electromedicine** equipment maintenance to designing control systems for **Drones and Maritime technology**.
+
+I specialize in working within critical environments where signal integrity and system robustness are paramount, including experience with **SDR, RF, and Faraday Shielding**.
+
+---
+
+### 🚀 Core Focus Areas
+
+- **🛸 Drones & Aeronautics:** Avionics design, telemetry, and control systems for fixed-wing autonomous platforms.
+- **⚓ Marine & Nautics:** Electronics integration, satellite connectivity (Starlink), and navigation systems.
+- **🏥 Electromedicine & Shielding:** Maintenance of critical medical equipment and validation of **Faraday Cages** (EMI/EMC mitigation).
+- **📡 RF & SDR:** Spectrum analysis and experimentation with Software Defined Radio.
+
+---
+
+### 💻 Technologies & Tools
+
+#### 🌐 Web & Software
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</p>
+
+#### ⚙️ Embedded & Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/SolidWorks-red?style=for-the-badge&logo=solidworks&logoColor=white" />
+</p>
+
+---
+
+### ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=scicolonejulian&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scicolonejulian&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Reach Me Out
+<p align="left">
+  <a href="https://scicolone.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-scicolone.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <i>"Transforming bits into motion and signals into data."</i>
+</p>
+
+
 ### Hi there 👋
 
 <!--
