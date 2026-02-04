@@ -1,66 +1,61 @@
 # Hi, I'm Julian Scicolone 👋
 
-I am an **Electronic Engineering Student** based in Argentina, passionate about the intersection where code meets the physical world.
+I'm an **Electronic Engineering student** based in Argentina. My passion lies in connecting software with real-world hardware.
 
-Unlike pure software developers, my focus isn't just on the application layer. I enjoy building the entire ecosystem: from the physical infrastructure and embedded sensors to the user interfaces that control them. I describe myself as a **Full Stack Enthusiast with a hardware mindset**.
-
-My goal is to develop robust, critical systems—whether that means designing a drone's avionics, securing a medical device against interference, or optimizing a high-performance server cluster.
+I take a hands-on approach to engineering: I enjoy understanding how things work from the inside out, whether it's rescuing enterprise hardware for a home lab or designing the avionics for a drone. I don't just write code; I like to get my hands dirty with wiring, soldering, and prototyping.
 
 ---
 
-### 🔭 Areas of Focus & Research
-
-I divide my time between my university studies and hands-on technical projects in the following fields:
-
-#### 🛸 Unmanned Aerial Systems (UAS) & Aeronautics
-My primary interest lies in **Fixed-Wing Drones**. I am not just a pilot; I am a designer. I work on the **avionics**, focusing on long-range telemetry, flight control systems, and aerodynamic efficiency. I enjoy the challenge of integrating complex electronics into lightweight airframes.
-
-#### ⚓ Marine & Nautical Technology
-I apply my electronics knowledge to the maritime environment, working on autonomous navigation systems and robust communications. I am currently exploring **Starlink integration** for remote telemetry and data acquisition in nautical vessels.
-
-#### 🏥 Critical Systems & Electromedicine
-I have professional experience in the maintenance of electromedicine equipment. This background taught me the vital importance of reliability and safety standards. I have hands-on experience designing and validating **Faraday Cages** to protect sensitive electronics from Electromagnetic Interference (EMI).
-
-#### 🖥️ Infrastructure & Home Lab
-I believe in learning by doing. I have built a personal **Home Lab** using rescued enterprise-grade bank servers. I use this hardware to learn about virtualization, Linux system administration, and to host the backend services for my projects.
+### 🔭 Current Focus
+* **Aeronautics:** Fixed-wing UAVs & Avionics.
+* **Marine Tech:** Nautical electronics & Navigation.
+* **Critical Systems:** Electromedicine & EMI Shielding.
+* **Infrastructure:** Home Lab & Server Virtualization.
 
 ---
 
-### 🛠️ Technical Stack
+### 🚀 The Arsenal
 
-I use a diverse set of tools to bring my ideas to life, ranging from high-level web frameworks to low-level hardware design.
+**💻 Frontend & UI Design**
+<p>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="50" height="50"/> </a>
+</p>
 
-**💻 Web & Software (The Interface)**
-![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+**🐧 Linux & OS (Daily Drivers)**
+<p>
+  <a href="https://archlinux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch" width="50" height="50"/> </a>
+  <a href="https://getfedora.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="50" height="50"/> </a>
+  <a href="https://www.redhat.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="50" height="50"/> </a>
+  <a href="https://www.debian.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="50" height="50"/> </a>
+  <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/> </a>
+  <a href="https://alpinelinux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="alpine" width="50" height="50"/> </a>
+  <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspbian" width="50" height="50"/> </a>
+</p>
 
-**🔌 Embedded & Hardware (The Core)**
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![SDR](https://img.shields.io/badge/-SDR-002244?style=flat&logo=gnu-radio&logoColor=white)
+**⚙️ Backend & Development**
+<p>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/> </a>
+</p>
 
-**⚙️ Design & Simulation**
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-CC1F1F?style=flat&logo=solidworks&logoColor=white)
-![KiCad](https://img.shields.io/badge/-KiCad-3145A0?style=flat&logo=kicad&logoColor=white)
-
----
-
-### 📫 Connect with me
-
-I am always open to discussing engineering challenges, aerospace projects, or potential collaborations.
-
-* **Website:** [scicolone.dev](https://scicolone.dev)
-* **LinkedIn:** [linkedin.com/in/scicolonejulian](https://www.linkedin.com/in/scicolonejulian/?locale=en_US)
-* **Email:** [scicolone.julian@gmail.com](mailto:scicolone.julian@gmail.com)
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=scicolonejulian&show_icons=true&theme=minimal&hide_border=true&count_private=true" height="160" alt="stats" />
-
-
-
+**🛠️ Engineering, RF & Hardware Design**
+<p>
+  <a href="https://www.solidworks.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/solidworks/solidworks-icon.svg" alt="solidworks" width="50" height="50"/> </a>
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> <img src="https://www.vectorlogo.zone/logos/autodesk_autocad/autodesk_autocad-icon.svg" alt="autocad" width="50" height="50"/> </a>
+  <a href="https://www.altium.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/altium/altium-icon.svg" alt="altium" width="50" height="50"/> </a>
+  <a href="https://www.kicad.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kicad/kicad-icon.svg" alt="kicad" width="50" height="50"/> </a>
+  <a href="https://www.gnuradio.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnuradio/gnuradio-icon.svg" alt="gnuradio" width="50" height="50"/>
 # Hi there! I'm Julian Scicolone 👋
 
 <p align="center">
