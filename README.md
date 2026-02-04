@@ -80,6 +80,38 @@ I take a hands-on approach to engineering: I enjoy understanding how things work
 <img src="https://github-readme-stats.vercel.app/api?username=scicolonejulian&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="ScicoloneJulian's GitHub stats" />
 
 
+**🛠️ Engineering, RF & Hardware Design**
+<p>
+  <a href="https://www.solidworks.com/" target="_blank"> <img src="https://cdn.simpleicons.org/solidworks/CC1F1F" alt="solidworks" width="50" height="50"/> </a>
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> <img src="https://cdn.simpleicons.org/autocad/E01E26" alt="autocad" width="50" height="50"/> </a>
+  
+  <a href="https://www.altium.com/" target="_blank"> <img src="https://cdn.simpleicons.org/altiumdesigner/005697" alt="altium" width="50" height="50"/> </a>
+  <a href="https://www.kicad.org/" target="_blank"> <img src="https://cdn.simpleicons.org/kicad/3145A0" alt="kicad" width="50" height="50"/> </a>
+  
+  <a href="https://www.gnuradio.org/" target="_blank"> <img src="https://cdn.simpleicons.org/gnuradio/FA7610" alt="gnuradio" width="50" height="50"/> </a>
+  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="50" height="50"/> </a>
+  
+  <a href="https://www.arduino.cc" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50"/> </a>
+  <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPi" width="50" height="50"/> </a>
+  <a href="https://www.microchip.com/" target="_blank"> <img src="https://cdn.simpleicons.org/microchip/ED1C24" alt="Microchip" width="50" height="50"/> </a>
+</p>
+
+---
+
+### ⚡ Fun facts
+**I'm into Aviation, Electromagnetic Compatibility (EMC), IoT devices & Electronics.**
+
+---
+
+### 📫 Get in touch
+* **Website:** [scicolone.dev](https://scicolone.dev)
+* **Email:** [scicolone.julian@gmail.com](mailto:scicolone.julian@gmail.com)
+* **LinkedIn:** [linkedin.com/in/scicolonejulian](https://www.linkedin.com/in/scicolonejulian/?locale=en_US)
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=scicolonejulian&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="ScicoloneJulian's GitHub stats" />
+
+
 
 
 
