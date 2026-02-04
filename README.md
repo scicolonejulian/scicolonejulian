@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p> I am a self-taught person who likes taking up new challenges and finding practical solutions in team oriented environments.
 Creativity and adaptability are my main strengths. What I particularly like about the IT world is the team collaboration and the "geekiness" of the people I got to know from it.
 </p>
-<p>My goal for this 2021 is working remotely and develop personal projects</p>
+<p>My goal for this 2026 is working remotely and develop personal projects</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scicolonejulian&label=Profile%20views&color=0e75b6&style=flat" alt="scicolonejulian" /> </p>
