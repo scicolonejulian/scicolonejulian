@@ -122,24 +122,6 @@ I specialize in working within critical environments where signal integrity and 
 <p align="center">
   <i>"Transforming bits into motion and signals into data."</i>
 </p>
-
-
-### Hi there 👋
-
-<!--
-**scicolonejulian/scicolonejulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGl1F6cbHRGtg/profile-displaybackgroundimage-shrink_350_1400/0/1613857357301?e=1619049600&v=beta&t=NC31uWk3ygpTxeTCWMwFBvE5_pP_SeS3aSeFoxalNkQ" alt="scicolonejulian" align="center"/>
 
 <h1 align="center">Hi there fellas 👋, I'm Julian Scicolone </h1>
@@ -154,14 +136,6 @@ Creativity and adaptability are my main strengths. What I particularly like abou
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scicolonejulian&label=Profile%20views&color=0e75b6&style=flat" alt="scicolonejulian" /> </p>
-
-- 🌱 I’m currently learning **GraphQL, React Native, 2D animation**
-
-- 📫 You can contact me at **scicolone.julian@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/scicolonejulian/](https://www.linkedin.com/in/scicolonejulian/)
-
-- ⚡ Fun facts: **I'm into Aviation, Electromagnetic Compatibility - IoT devices - Electronics**
 
 
 <h3 align="left">Languages and Tools:</h3>
