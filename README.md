@@ -1,3 +1,66 @@
+# Hi, I'm Julian Scicolone 👋
+
+I am an **Electronic Engineering Student** based in Argentina, passionate about the intersection where code meets the physical world.
+
+Unlike pure software developers, my focus isn't just on the application layer. I enjoy building the entire ecosystem: from the physical infrastructure and embedded sensors to the user interfaces that control them. I describe myself as a **Full Stack Enthusiast with a hardware mindset**.
+
+My goal is to develop robust, critical systems—whether that means designing a drone's avionics, securing a medical device against interference, or optimizing a high-performance server cluster.
+
+---
+
+### 🔭 Areas of Focus & Research
+
+I divide my time between my university studies and hands-on technical projects in the following fields:
+
+#### 🛸 Unmanned Aerial Systems (UAS) & Aeronautics
+My primary interest lies in **Fixed-Wing Drones**. I am not just a pilot; I am a designer. I work on the **avionics**, focusing on long-range telemetry, flight control systems, and aerodynamic efficiency. I enjoy the challenge of integrating complex electronics into lightweight airframes.
+
+#### ⚓ Marine & Nautical Technology
+I apply my electronics knowledge to the maritime environment, working on autonomous navigation systems and robust communications. I am currently exploring **Starlink integration** for remote telemetry and data acquisition in nautical vessels.
+
+#### 🏥 Critical Systems & Electromedicine
+I have professional experience in the maintenance of electromedicine equipment. This background taught me the vital importance of reliability and safety standards. I have hands-on experience designing and validating **Faraday Cages** to protect sensitive electronics from Electromagnetic Interference (EMI).
+
+#### 🖥️ Infrastructure & Home Lab
+I believe in learning by doing. I have built a personal **Home Lab** using rescued enterprise-grade bank servers. I use this hardware to learn about virtualization, Linux system administration, and to host the backend services for my projects.
+
+---
+
+### 🛠️ Technical Stack
+
+I use a diverse set of tools to bring my ideas to life, ranging from high-level web frameworks to low-level hardware design.
+
+**💻 Web & Software (The Interface)**
+![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**🔌 Embedded & Hardware (The Core)**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SDR](https://img.shields.io/badge/-SDR-002244?style=flat&logo=gnu-radio&logoColor=white)
+
+**⚙️ Design & Simulation**
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-CC1F1F?style=flat&logo=solidworks&logoColor=white)
+![KiCad](https://img.shields.io/badge/-KiCad-3145A0?style=flat&logo=kicad&logoColor=white)
+
+---
+
+### 📫 Connect with me
+
+I am always open to discussing engineering challenges, aerospace projects, or potential collaborations.
+
+* **Website:** [scicolone.dev](https://scicolone.dev)
+* **LinkedIn:** [linkedin.com/in/scicolonejulian](https://www.linkedin.com/in/scicolonejulian/?locale=en_US)
+* **Email:** [scicolone.julian@gmail.com](mailto:scicolone.julian@gmail.com)
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=scicolonejulian&show_icons=true&theme=minimal&hide_border=true&count_private=true" height="160" alt="stats" />
+
+
+
 # Hi there! I'm Julian Scicolone 👋
 
 <p align="center">
